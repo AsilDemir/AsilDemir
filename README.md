@@ -8,7 +8,7 @@ I am Asil, an Information Security Technology student at Istanbul Gelisim Univer
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [asildeaydin@gmail.com](mailto:asildeaydin@gmail.com)
-* 🧠  I'm learning JAVA and Offensive Security
+* 🧠  I'm learning Programming Languages and Offensive Security
 
 ### Skills
 
